@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 1
+Branch index: 0
+File slot: 1
+Special character: '"' (label: dquote)
+Repo: test.repo.001
+Branch: branch-001-00-bang-!-x
+Path: special-chars/file-001-00-1-dquote-"-x.txt
